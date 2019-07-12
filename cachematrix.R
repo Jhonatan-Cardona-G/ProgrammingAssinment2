@@ -1,4 +1,4 @@
-## This functions create a special "matrix" throught we can obtain its inverse
+## This functions create a special "matrix" throught we can obtain its inverse.
 
 ## Create an object as matrix
 ## Set the function giving it parameters x and m with and create a matrix that can cache his inverse and store it
